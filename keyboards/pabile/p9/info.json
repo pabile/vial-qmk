@@ -1,0 +1,10 @@
+{
+    "manufacturer": "Pabile",
+    "url": "https://github.com/pabile",
+    "maintainer": "pabile",
+    "usb": {
+        "vid": "0x8085",
+        "pid": "0x8009"
+    }
+}
+
